@@ -1,0 +1,8 @@
+__pycache__/
+ref/
+thesis/
+draft.md
+runs/
+run_hard.bat
+val_hard.jsonl
+val.jsonl
